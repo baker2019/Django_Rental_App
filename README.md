@@ -26,14 +26,6 @@ This repository contains a web application to search and book vacation homes cre
   - Amazon Web Services EC2 (Ubuntu 18.04)
   - Amazon Web Services Elastic IP
 
-This is a portfolio project made by 2 computer science students who want to showcase our web development skills.
-
-Ryuichi Miyazaki: [LinkedIn](https://www.linkedin.com/in/rmiyazaki/)
-
-Tu Vo: [LinkedIn](https://www.linkedin.com/in/tu-vo/)
-
-Check out our other projects at: [Akatsuki Co](https://github.com/akatsuki-co)
-
 
 ## Features
 
@@ -104,9 +96,4 @@ A stay has a many-to-many relationship to amenity, review, and booking.
 Project is complete and deployed!
 Check it out here: (we are currently getting a domain name)
 
-## Authors
 
-Created by:
-
-- [Ryuichi Miyazaki](https://github.com/rmiyazaki6499)
-- [Tu Vo](https://github.com/tuvo1106)
